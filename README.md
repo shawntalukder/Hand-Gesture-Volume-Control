@@ -40,7 +40,7 @@ The webcam captures each video frame.
 
     **Index Tip → Landmark 8**
 
-3. A line is drawn between them, and the distance is calculated.
+3. A line is drawn between them, and the distance is calculated
 
 4. If the distance is large → **Volume Up**
    If the distance is small → **Volume Down**
